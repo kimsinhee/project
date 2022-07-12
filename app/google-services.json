@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "946115942511",
+    "project_id": "balancebag-35402",
+    "storage_bucket": "balancebag-35402.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946115942511:android:9a73c9711f4261c0e4d59a",
+        "android_client_info": {
+          "package_name": "com.example.balancebag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946115942511-s5dlr1c42obndjki0lj887uasvl6uc6c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_-L8-dE4JC1ya94lDEfzpJPSiA81Xu-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946115942511-s5dlr1c42obndjki0lj887uasvl6uc6c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
